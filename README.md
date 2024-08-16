@@ -7,7 +7,7 @@
 
   - 🌱 I’m currently Exploring on GenAI and AI Applications 😎.
 
-  - 📚 I’m collaborator in `Python`, `Sci-Kit learn`,`PyTorch`, `tensorflow` and looking for more collaboration.
+  - 📚 I’m collaborator in `Python`, `Sci-Kit learn`,`PyTorch`, `Tensorflow` and looking for more collaboration.
   
   - 🥅 2024 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
 
